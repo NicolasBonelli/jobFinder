@@ -1,0 +1,181 @@
+Desarrollador Senior Full-Stack en Eventrid - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/14310/logo_200(2).png
+Eventrid
+https://www.getonbrd.com/companies/eventrid
+Seguir
+21 de abril de 2025
+Desarrollador Senior Full-Stack
+en
+Eventrid
+FULL_TIME
+Remoto
+|
+Senior
+|
+Full time
+|
+Programación
+Sueldo bruto
+$1100 - 1600
+USD/mes
+170
+postulaciones
+Responde entre 1 y 5 días
+Revisado por última vez hoy
+Postular
+Requiere postular en Español
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+En Eventrid, somos una plataforma consolidada que apoya la gestión integral de eventos desde su inicio hasta su finalización. Con más de 12 años de experiencia en la industria, hemos evolucionado y expandido nuestra presencia en varios países latinoamericanos, incluyendo Chile, Perú, Bolivia y Colombia. Nuestra solución tecnológica se utiliza en una diversidad de tipos de eventos, lo que nos permite atender distintos mercados y desafíos asociados a la organización y administración de eventos.
+Postula a esta oportunidad laboral en getonbrd.com.
+Responsabilidades del Puesto
+Como desarrollador senior en Eventrid, serás responsable de atender nuevos requerimientos funcionales y técnicos, asegurando la calidad y el correcto funcionamiento del software. Debes mostrar una gran autonomía y proactividad para analizar las necesidades y proponer soluciones sólidas frente a cualquier desafío o error que se presente durante el proceso de desarrollo.
+El trabajo colaborativo es clave para mantener altos estándares técnicos y promover un ambiente de aprendizaje y mejora continua en el equipo.
+Tu enfoque principal será asegurar que el desarrollo de nuevas funcionalidades y correcciones se realicen eficientemente, con un alto nivel de calidad y adaptabilidad a los requerimientos cambiantes del mercado.
+Perfil y Requisitos
+Buscamos un desarrollador senior con sólida experiencia y alta capacidad analítica, que sea capaz de trabajar de forma autónoma y proactiva. Es fundamental contar con conocimientos profundos en tecnologías y herramientas de desarrollo, así como experiencia comprobable en la resolución eficiente de problemas técnicos y en la propuesta de soluciones innovadoras.
+Se valorará especialmente la capacidad para entender desafíos complejos y transformarlos en soluciones técnicas efectivas.
+Además, es importante que tengas un perfil orientado a la colaboración, comunicación efectiva y responsabilidad para cumplir los objetivos en tiempo y forma, asegurando la calidad y estabilidad de la plataforma.
+Tecnologías, metodologías y herramientas (no necesariamente todas):
+•⁠ ⁠NodeJS
+•⁠ ⁠React
+•⁠ ⁠Aplicaciones móviles en entornos JS cómo Ionic
+•⁠ ⁠Aplicaciones escritorio en entornos JS cómo Electron
+•⁠ ⁠Frameworks CSS como Bootstrap o Tailwind
+•⁠ ⁠Frameworks MVC
+•⁠ ⁠API first approach
+•⁠ ⁠Git, ideal experiencia con plataformas online (Bitbucket, GitHub, GitLab)
+• Conocimiento en herramientas de análisis estático de código fuente (Sonarqube)
+•⁠ ⁠Conocimiento de metodologías ágiles (Scrum y XP)
+•⁠ Infraestructura Cloud
+•⁠ Desarrollo de pruebas unitarias
+•⁠ ⁠Herramientas de test automáticos e integración continua
+Habilidades y Conocimientos Deseables
+Se valorarán positivamente conocimientos en metodologías ágiles, manejo de sistemas de control de versiones como Git, experiencia en desarrollo full stack y familiaridad con tecnologías específicas usadas en el sector de eventos o software SaaS.
+Además, la experiencia trabajando en equipos remotos o distribuidos y la capacidad para adaptarte rápidamente a cambios tecnológicos potenciarán tu desempeño en el rol.
+Beneficios
+El puesto ofrece la oportunidad de integrarte en una empresa tecnológica con más de una década de trayectoria y presencia internacional en varios países de Latinoamérica. Trabajamos en modalidad remota local, permitiéndote colaborar desde la región en la que te encuentres.
+Además, fomentamos un ambiente de trabajo ágil, colaborativo y orientado a la calidad del software y al crecimiento profesional de nuestro equipo.
+GETONBRD Job ID: 53204
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Horario flexible
+Entrada y salida flexibles, libertad para realizar trámites personales o familiares.
+Vestimenta informal
+Eventrid no exige ningún código de vestimenta.
+Vacaciones extra
+Eventrid otorga vacaciones pagadas adicionales al mínimo legal.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+Agile
+Git
+Node.js
+Continuous Integration
+React
+Ionic
+Scrum
+MVC
+Bootstrap
+SonarQube
+Bitbucket
+GitLab
+Github
+Sonarqube
+Unit Testing
+Tailwind
+NodeJS
+Electron
+API First
+Nube
+Automated Reporting
+Windows XP
+Automated Testing
+Cloud Infrastructure
+CI
+MVC Framework
+XP
+Empleos
+›
+Programación
+›
+Eventrid
+›
+Desarrollador Senior Full-Stack
+Acerca de Eventrid
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/14310/logo_200(2).png
+Somos una plataforma que apoya la gestión de eventos de principio a fin. Con más de 12 años en la industria hemos consolidado nuestro software en Chile, Perú, Bolivia, y Colombia en distintos tipos de eventos.
+—
+Perfil completo de Eventrid
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/14310/logo_200(2).png
+Desarrollador Senior Full-Stack
+Eventrid
+ •
+Remoto
+Postula
+Requiere postular en Español
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

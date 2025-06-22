@@ -26,9 +26,6 @@ async def main():
             print("⚠️ No se encontraron enlaces. Revisa el HTML en output/debug_getonboard.html")
             return
         
-        # Limitar a los 3 primeros enlaces para pruebas
-        job_links = job_links[:3]
-        print(f"🔍 Scraping los primeros {len(job_links)} enlaces para pruebas")
         
         # Obtener la cadena de LangChain
         chain = get_llm_chain()

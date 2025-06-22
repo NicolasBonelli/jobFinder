@@ -1,0 +1,154 @@
+Mid Level Developer en Niuro - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/16033/logoHD.png
+Niuro
+https://www.getonbrd.com/companies/niuro
+Seguir
+30 de mayo de 2025
+Mid Level Developer
+en
+Niuro
+CONTRACTOR
+Remoto
+|
+Semi Senior
+|
+Freelance
+|
+Programación
+219
+postulaciones
+Responde entre 1 y 3 días
+Revisado por última vez hoy
+Postular
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Niuro connects projects with elite tech teams, collaborating primarily with leading U.S. companies. Our mission is to simplify global talent acquisition through innovative solutions that maximize efficiency and quality. In this specific project, you will work on building a tool that removes image backgrounds by integrating with the remove.bg API. This project is technically focused and designed to provide real-world experience working with APIs and image processing technologies. It fits within our portfolio of delivering high-impact, innovative technology solutions for our international clientele while fostering continuous growth and skill development in our teams.
+Encuentra este empleo y más en Get on Board.
+Role and Responsibilities
+Develop a background removal tool by integrating and consuming the remove.bg API.
+Write clean, maintainable code primarily using Python or JavaScript/TypeScript (Node.js).
+Utilize image processing libraries such as PIL or OpenCV to handle image manipulation tasks.
+Manage source code repositories using Git via platforms like GitHub or GitLab.
+Collaborate effectively with international team members using intermediate to advanced conversational English.
+Deliver a functional, usable solution within the 1-month freelance engagement.
+Requirements and Skills
+Experience programming in Python or JavaScript/TypeScript, particularly Node.js.
+Proven ability to consume RESTful APIs, ideally with hands-on experience using remove.bg API or similar services.
+Knowledge and practical experience with image processing libraries such as PIL or OpenCV in Python.
+Familiarity with Git and basic repository management on platforms like GitHub or GitLab.
+Intermediate to advanced level of conversational English to facilitate remote collaboration with a global and diverse team.
+We seek a motivated individual ready to take on a short-term freelance project and eager to gain hands-on experience working with APIs and image processing technologies, capable of delivering a high-quality, functional product by project end.
+Desirable Skills
+Frontend development experience with HTML, CSS, and JavaScript.
+Familiarity with modern JavaScript frameworks such as React or Vue.js.
+Experience working with cloud storage services like Amazon S3 or Firebase.
+Knowledge of deployment platforms including Vercel, Netlify, Render, Heroku, or Railway.
+These additional skills would be beneficial for expanding the scope of the tool or enhancing deployment and user interface aspects but are not essential for project success.
+Benefits
+This is a 100% remote freelance opportunity allowing flexible work location globally. Working with Niuro means joining a globally distributed team and gaining exposure to real-world projects involving cutting-edge technology.
+We offer a supportive environment with a focus on technical excellence, innovation, and professional growth. Although this is a short-term freelance project, successful completion could lead to long-term collaboration and potential transition to stable full-time roles.
+Niuro handles all administrative aspects including hiring and payments, so you can fully focus on delivering excellent results without distraction.
+GETONBRD Job ID: 53948
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Vestimenta informal
+Niuro no exige ningún código de vestimenta.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+JavaScript
+Python
+Git
+Node.js
+TypeScript
+GitLab
+Github
+OpenCV
+RESTful APIs
+Image Processing
+remove.bg API
+PIL
+remove.bg
+Empleos
+›
+Programación
+›
+Niuro
+›
+Mid Level Developer
+Acerca de Niuro
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/16033/logoHD.png
+Niuro connects projects with elite tech teams, collaborating with leading U.S. companies. Our mission is to simplify global talent acquisition through innovative solutions that maximize efficiency and quality.
+—
+Perfil completo de Niuro
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/16033/logoHD.png
+Mid Level Developer
+Niuro
+ •
+Remoto
+Postula
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

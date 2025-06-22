@@ -1,0 +1,206 @@
+Ingeniero de Operaciones TI en Usercode SpA - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de SysAdmin / DevOps / QA
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/13432/logo_512x512.png
+Usercode SpA
+https://www.getonbrd.com/companies/usercode-spa
+Seguir
+23 de diciembre de 2024
+Ingeniero de Operaciones TI
+en
+Usercode SpA
+FULL_TIME
+Remoto
+(México, Chile o Perú)
+|
+Semi Senior
+|
+Full time
+|
+SysAdmin / DevOps / QA
+166
+postulaciones
+Responde entre 3 y 11 días
+Revisado por última vez hoy
+Postular
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Usercode es una empresa tecnológica especializada en el desarrollo de software para instituciones públicas y organizaciones privadas. Nuestro foco son las tecnologías Cloud, la automatización y digitalización de procesos.
+Trabajamos 100% remoto, nuestro equipo está en distintas regiones de Chile, México y Perú. Para comunicarnos y trabajar utilizamos Slack, Meet Hangout y Monday.
+La necesidad actual:
+El volumen del negocio de Usercode está creciendo por la vía de incorporar una mayor cantidad y tipo de proyectos de desarrollo, por un lado, y por otro lado, abriendo líneas de negocio relacionadas, como mantenimiento de infraestructura, y ampliando la cartera de clientes hacia el mercado privado.
+Para lograr el éxito en este proceso es clave contar con un equipo de desarrollo capaz, autónomo, responsable, con experiencia, preparado técnicamente, con profundos conocimientos en una serie de herramientas específica, capaz de aprender y adquirir el uso herramientas nuevas.
+Fuente del empleo: getonbrd.com.
+Funciones del cargo
+Configuración de máquinas virtuales en entornos Linux (obligatorio)
+: Habilidad para instalar, configurar y mantener sistemas basados en Linux. Experiencia en la administración de servidores, optimización de rendimiento y seguridad de sistemas Linux.
+Configuración de servicios web y de aplicaciones (obligatorio)
+: Experiencia en la configuración y administración de servidores web y aplicaciones como Apache, Nginx, y Tomcat. Capacidad para implementar y gestionar procesos con gestores como PM2 para aplicaciones Node.js.
+Seguridad de sistemas y redes (obligatorio)
+: Conocimiento en la implementación de políticas de seguridad, gestión de accesos y configuración de firewalls y otros mecanismos de seguridad en entornos cloud y on-premise.
+Monitoreo y logística (obligatorio)
+: Experiencia en la configuración de herramientas de monitoreo y logística para garantizar la visibilidad y el rendimiento operativo, utilizando herramientas como Prometheus, Grafana, ELK Stack, etc.
+Requerimientos del cargo
+Enfoque decidido hacia la gestión y optimización de servicios en la nube y prácticas DevOps. Esperamos que el candidato ideal tenga experiencia robusta en la implementación y manejo de ambientes cloud, utilizando herramientas modernas de CI/CD como Jenkins, y que posea habilidades sólidas en la configuración y administración de ambientes de desarrollo, prueba y producción.
+El rol implica responsabilidades clave como la configuración de bases de datos y la garantía de su rendimiento óptimo, la implementación de soluciones escalables y la administración de infraestructura como código. Es fundamental que el candidato tenga la capacidad de colaborar estrechamente con equipos de desarrollo para facilitar despliegues rápidos y seguros, y asegurar la alta disponibilidad y resiliencia de los sistemas.
+Buscamos a alguien que no solo se encargue de mantener la infraestructura existente, sino que también proponga y ejecute mejoras continuas, aplicando las mejores prácticas de seguridad y optimización de costos en entornos cloud.
+El candidato ideal debe ser proactivo, trabajar bien en equipo, y manejar habilidades de comunicación efectivas. Se valoran personas con orientación a resultados, autonomía, y un enfoque en la mejora continua.
+Experiencia excluyente:
+Configuración de máquinas virtuales en entornos Linux.
+Configuración de servicios web y de aplicaciones.
+Seguridad de sistemas y redes.
+Monitoreo y logística.
+Comportamiento esperado:
+Lo que buscamos en ti:
+Proactividad
+Trabajo en equipo
+Autonomía
+Orientado a objetivos y resultados
+Características personales:
+Autonomía
+Cumplimiento
+Buenas habilidades de comunicación oral y escrita incluyendo comprensión lectora
+Saber escuchar, atención
+Ser respetuoso
+Disposición a colaborar con el equipo
+Responsable de sus tareas proyectos trabajos
+Opcionales
+Conocimiento en servicios AWS
+: Experiencia en la configuración y gestión de servicios clave de AWS como EC2, S3, RDS, ECS, Lambda, y VPC. Familiaridad con AWS CloudFormation o Terraform.
+Gestión de bases de datos
+: Sólidos conocimientos en la configuración, optimización y mantenimiento de sistemas de bases de datos como MySQL y SQL Server. Experiencia en tareas como la configuración de replicación, backups automatizados y tuning de rendimiento.
+Configuración y manejo de contenedores:
+Experiencia en el uso de Docker para la creación y gestión de contenedores.
+Orquestación con Kubernetes :
+Capacidad para implementar, configurar y manejar clústeres de Kubernetes, optimizando la automatización y escalabilidad de aplicaciones en producción.
+Implementación y configuración de herramientas de CI/CD
+: Experiencia en la configuración y uso de Jenkins para la integración y entrega continua.
+Automatización y scripting
+: Habilidad en scripting con Bash, Python, o similar.
+Beneficios
+Este puesto ofrece la flexibilidad de un entorno de trabajo remoto, sin embargo, según las necesidades específicas de nuestros clientes, puede haber ocasiones en las que se requiera tu presencia en un lugar de trabajo presencial.
+Días extra de vacaciones.
+Días libres 3x5, día libre por cumpleaños, cambio de domicilio, muerte de mascota
+Pago de certificaciones seleccionadas
+Pausa activa colaborativa
+Aguinaldo
+GETONBRD Job ID: 51217
+Política de trabajo remoto
+Remoto sólo localmente
+El trabajo es 100% remoto, pero los candidatos deben residir en México, Chile o Perú para postular.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+Python
+MySQL
+Linux
+DevOps
+Continuous Integration
+Docker
+Jenkins
+Kubernetes
+Nginx
+Cybersecurity
+CI/CD
+Tomcat
+Cloud
+Terraform
+Cloud Formation
+Continual improvement process
+SQL Server
+Prometheus
+Apache
+AWS
+Bash
+apache
+Lambda
+S3
+EC2
+RDS
+Grafana
+Monitoring
+PM2
+VPC
+Cloud Security
+Elastic Container Service
+ELK Stack
+ECS
+Empleos
+›
+SysAdmin / DevOps / QA
+›
+Usercode SpA
+›
+Ingeniero de Operaciones TI
+Acerca de Usercode SpA
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/13432/logo_512x512.png
+Somos una empresa 100% remota, especialista en crear productos digitales a la medida de cada cliente. 
+—
+Perfil completo de Usercode SpA
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de SysAdmin / DevOps / QA?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/13432/logo_512x512.png
+Ingeniero de Operaciones TI
+Usercode SpA
+ •
+Remoto
+(México, Chile o Perú)
+Postula
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

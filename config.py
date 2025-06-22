@@ -15,7 +15,7 @@ OUTPUT_DIR = Path("output")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 # URL inicial
-URL = "https://www.getonboard.com/jobs-remote"
+URL = "https://www.getonbrd.com/jobs-remote"
 
 # Configuración del navegador para Crawl4AI
 BROWSER_CONFIG = BrowserConfig(
@@ -27,5 +27,5 @@ BROWSER_CONFIG = BrowserConfig(
 RUN_CONFIG = CrawlerRunConfig(
     cache_mode=CacheMode.BYPASS,
     extraction_strategy=None,
-    delay_before_return_html=8.0
+    delay_before_return_html=1.0
 )

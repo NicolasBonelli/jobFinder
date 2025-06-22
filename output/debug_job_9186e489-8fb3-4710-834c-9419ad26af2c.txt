@@ -1,0 +1,178 @@
+Back-end Developer en Enviame - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/8432/Im%C3%A1genes_de_formato_Cuadrado__2_.png
+Enviame
+https://www.getonbrd.com/companies/enviame
+Seguir
+23 de mayo de 2025
+Back-end Developer
+en
+Enviame
+FULL_TIME
+Remoto
+|
+Junior
+|
+Full time
+|
+Programación
+Sueldo bruto
+$1,100
+USD/mes
+1384
+postulaciones
+Responde entre 0 y 4 días
+Revisado por última vez hoy
+Postular
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+¿Conoces Envíame?
+Somos la plataforma y API de envíos más innovadora en Latinoamérica y nuestros sistemas procesan millones de transacciones mensuales de los principales eCommerce de Chile, Colombia, Perú y México.
+Nuestro propósito es:
+Crear tecnologías que innovan la logística, explorando más allá de lo imaginable para entregar experiencias extraordinarias.
+Tenemos una cultura muy diversa y nos encanta compartir aficiones. Escuchamos las sugerencias de todos y nos arriesgamos a probar metodologías y tecnologías nuevas. Al ser Exploradores, tenemos un profundo sentido de aventura asociado al modo en que realizamos nuestro trabajo. Estamos creando una empresa que sea líder en la industria y que a la vez, sea referente en materias de cultura organizacional y clima laboral.
+¡Te invitamos a vivir la experiencia de formar parte de Envíame!
+Fuente del empleo: getonbrd.com.
+Funciones del cargo
+Buscamos personas entusiastas con experiencia en Desarrollo Backend y con deseos de formar parte de nuestro equipo de Tecnología en modalidad Contractor (Prestador de Servicios) en una empresa con importante proyección.
+Las principales funciones son:
+Colaborar en el desarrollo y mantenimiento de aplicaciones que se integren con plataformas de e-commerce, mejorando la experiencia del usuario.
+Participar en la identificación de oportunidades para la automatización y optimización de procesos, y contribuir en el diseño e implementación de soluciones de software.
+Apoyar a compañeros de equipo en el proceso de peer review, ofreciendo retroalimentación constructiva y garantizando la calidad del código.
+Promover y aplicar buenas prácticas de desarrollo de software, asegurando la eficiencia y mantenibilidad del código.
+Trabajar en equipo para entender y satisfacer las necesidades del negocio.
+Documentar procesos técnicos y especificaciones del software para garantizar la coherencia y eficacia del trabajo.
+Requerimientos del cargo
+Tener mínimo 6 meses de experiencia en desarrollo backEnd.
+Certificado de Bootcamp Finalizado en caso de no contar con Título Técnico/Profesional.
+Lenguajes de programación: Node.js y Python.
+Experiencia con tecnología de contenedores, especialmente Docker.
+Familiaridad con herramientas de versionamiento como GIT.
+Experiencia en la construcción de APIs (CRUD).
+Habilidades avanzadas en MS Excel.
+Conocimientos de patrones de diseño.
+Importante
+Debido a la gran cantidad de postulaciones que recibimos en nuestros anuncios, el proceso de revisión puede tomar tiempo. Además, es importante considerar que postular a la vacante no garantiza la participación en el proceso de selección.
+Si tras la revisión, consideramos que tu perfil cumple con los requisitos del cargo, te contactaremos para invitarte a la siguiente etapa.
+Por favor, ten en cuenta que este puesto aplica bajo la modalidad BYOD (Bring Your Own Device), lo que significa que cada Explorador deberá contar con su propio equipo de trabajo (computadora)."
+Requerimiento mínimo asociado al dispositivo del explorador para su gestión y cargo considerando:
+Procesador Mínimo: Intel I5 o similar
+Ram Mínima: 16 GB
+Disco Duro: SSD mínimo 256 GB
+Beneficios
+Trabajo desde casa (Homeoffice).
+Early Friday (Día viernes salida a las 16:30 hrs).
+El día de tu cumpleaños tienes libre o puedes elegir uno de esa semana.
+Estructura de trabajo horizontal, valoramos la comunicación y abordar situaciones como equipo.
+Espacios de aprendizaje y capacitación mediante la adquisición de experiencia constante en este dinámico rubro.
+Oportunidades de desarrollo y crecimiento profesional en un entorno dinámico.
+Colaboración con un equipo experimentado y apoyo para el aprendizaje continuo.
+Consideramos importante que tengas tiempo libre con tu familia, amigos, hobbies, etc. Por tanto, tenemos políticas orientadas a regalarle tiempo a nuestros colaboradores.
+Contamos con Telemedicina 24/7, consultas psicológicas ilimitadas, Apps de Meditación y Fitness.
+¡Te invitamos a vivir la experiencia de formar parte de Envíame!
+¡Nos vemos pronto Explorador/a!
+¡Mucho éxito!
+GETONBRD Job ID: 53817
+Programas de bienestar
+Enviame ofrece o subsidia programas de bienestar mental y/o físico.
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Vestimenta informal
+Enviame no exige ningún código de vestimenta.
+Día de cumpleaños libre
+El día de tu cumpleaños es canjeable por un día completo de vacaciones.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+Python
+Git
+Excel
+Node.js
+Docker
+API Development
+Design Patterns
+CRUD
+Empleos
+›
+Programación
+›
+Enviame
+›
+Back-end Developer
+Acerca de Enviame
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/8432/Im%C3%A1genes_de_formato_Cuadrado__2_.png
+Somos la plataforma y API de envíos más innovadora en Latinoamérica.
+
+Nuestros sistemas procesan millones de transacciones mensuales de los principales eCommerce de Chile, Colombia, Perú y México.
+—
+Perfil completo de Enviame
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/8432/Im%C3%A1genes_de_formato_Cuadrado__2_.png
+Back-end Developer
+Enviame
+ •
+Remoto
+Postula
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

@@ -1,0 +1,196 @@
+Desarrollador/a Front-end en Arara - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/12315/Iso_Arara_-_Sobre_Oscuro_y_claro.png
+Arara
+https://www.getonbrd.com/companies/arara-co
+Seguir
+10 de junio de 2025
+Desarrollador/a Front-end
+en
+Arara
+FULL_TIME
+Remoto
+(Norteamérica y Sudamérica)
+|
+Senior
+|
+Full time
+|
+Programación
+268
+postulaciones
+Responde entre 5 y 9 días
+Revisado por última vez hoy
+Postular
+Requiere postular en Español
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Arara es una empresa tecnológica especializada en WiFi marketing, ofreciendo soluciones innovadoras que optimizan la conectividad y la experiencia del usuario.
+En Arara, estamos buscando un/a Desarrollador/a Frontend apasionado/a y experimentado/a para unirse a nuestro equipo de tecnología.
+Buscamos a un/a profesional proactivo/a, con una sólida capacidad para resolver problemas complejos y que no solo implemente diseños, sino que también contribuya activamente en las decisiones sobre la arquitectura de la interfaz y en la mejora continua de la experiencia de usuario (UX) de nuestros productos.
+Aplica directamente en el sitio original en Get on Board.
+¿Qué es lo que harás?
+Traducir diseños de UI/UX (realizados en Figma, Sketch, etc.) en código de alta calidad, semántico y reutilizable usando HTML, CSS y JavaScript.
+Desarrollar, mantener y optimizar las características y componentes de la interfaz de usuario utilizando frameworks modernos como React, Vue.js o Angular.
+Asegurar que las aplicaciones web sean responsivas y se visualicen correctamente en todos los dispositivos y navegadores.
+Consumir y gestionar datos provenientes de APIs RESTful o GraphQL para integrarlos en la interfaz.
+Implementar y mantener el estado de la aplicación de manera eficiente con librerías como Redux, Vuex, Pinia o la Context API de React.
+Optimizar el rendimiento de la aplicación, asegurando tiempos de carga rápidos y una experiencia fluida para el usuario.
+Escribir pruebas unitarias y de integración para garantizar la estabilidad y correcto funcionamiento de los componentes visuales.
+Colaborar estrechamente con diseñadores UI/UX para validar la viabilidad técnica de los diseños y con desarrolladores backend para integrar servicios.
+Participar activamente en revisiones de código (Code Reviews) para mantener la calidad y consistencia del proyecto.
+¿Quiénes buscamos?
+Estamos en búsqueda de un/a profesional proactivo/a y apasionado/a por el desarrollo frontend, capaz de resolver problemas complejos y de aportar en la arquitectura de la interfaz y mejora continua de la experiencia de usuario (UX).
+Experiencia profesional:
+mínimo de 4 a 6 años demostrables en roles de desarrollo de software, con foco en frontend.
+Formación:
+título profesional en Ingeniería de Sistemas, Diseño Gráfico, Multimedia, Ciencias de la Computación o carreras afines.
+Conocimientos técnicos esenciales:
+Dominio sólido de HTML, CSS y JavaScript moderno (ES6+).
+Fuerte experiencia en al menos un framework moderno: React, Vue.js o Angular.
+Habilidades para consumir e integrar datos desde APIs RESTful y GraphQL.
+Experiencia con preprocesadores CSS (Sass) o frameworks como Tailwind CSS.
+Manejo indispensable de sistemas de control de versiones usando Git.
+Ojo crítico para detalles visuales y fuerte enfoque en experiencia de usuario (UX).
+Además, valoramos la capacidad de trabajo en equipo, autonomía, y comunicación efectiva para contribuir activamente en un equipo pequeño y colaborativo.
+Conocimientos deseables
+Se valorarán conocimientos adicionales en:
+Uso de librerías para manejo avanzado del estado de la aplicación como Redux, Vuex, Pinia o la Context API de React.
+Conocimiento en optimización avanzada de performance web y accesibilidad.
+Familiaridad con herramientas de testing automatizado más allá de pruebas unitarias.
+Lo que ofrecemos en Arara
+100% remoto – Trabaja desde cualquier lugar con huso horario de América.
+Cultura organizacional horizontal e innovadora.
+Equipo colaborativo – Somos un equipo pequeño, horizontal y cercano, donde tu aporte realmente cuenta.
+Trabajar en una industria en crecimiento: IA Aplicada
+Capacitaciones en Habilidades profesionales y personales de manera constante.
+GETONBRD Job ID: 54178
+Política de trabajo remoto
+Remoto sólo localmente
+El trabajo es 100% remoto, pero los candidatos deben residir en Norteamérica y Sudamérica para postular.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+JavaScript
+UX
+HTML5
+CSS
+Front-end
+Git
+AngularJS
+Graphic Design
+React
+Vue.js
+Redux
+GraphQL
+API
+ES6
+Angular
+Continual improvement process
+HTML
+Tailwind
+APIs RESTful
+Comunicación efectiva
+Trabajo En Equipo
+Mejora Continua
+Frameworks
+Multimedia
+Front-End Web
+Roles
+SASS
+RESTful API
+Vue
+Diseño Gráfico
+Computación
+Framework
+Arquitectura
+Desarrollo de Software
+Experiencia de Usuario
+Formación
+Ingeniería de Sistemas
+Autonomía
+JS
+Sistemas de Control
+Datos
+Desarrollo Frontend
+Empleos
+›
+Programación
+›
+Arara
+›
+Desarrollador/a Front-end
+Acerca de Arara
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/12315/Iso_Arara_-_Sobre_Oscuro_y_claro.png
+Arara es la Plataforma de Wifi Analytics líder del mercado. Es proveedor de las más grandes empresas de Tecnología de Latinoamérica. 
+—
+Perfil completo de Arara
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/12315/Iso_Arara_-_Sobre_Oscuro_y_claro.png
+Desarrollador/a Front-end
+Arara
+ •
+Remoto
+(Norteamérica y Sudamérica)
+Postula
+Requiere postular en Español
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

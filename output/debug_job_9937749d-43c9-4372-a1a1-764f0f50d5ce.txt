@@ -1,0 +1,174 @@
+Mobile Developer .NET Maui iOS/android en Improving South America - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Desarrollo Mobile
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/4161/improving-splash-200px.png
+Improving South America
+https://www.getonbrd.com/companies/improving
+Seguir
+12 de mayo de 2025
+Mobile Developer .NET Maui iOS/android
+en
+Improving South America
+FULL_TIME
+Remoto
+(4 ubicaciones)
+|
+Semi Senior
+|
+Full time
+|
+Desarrollo Mobile
+20
+postulaciones
+Responde entre 14 y 26 días
+Revisado por última vez hace 3 días
+Postular
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Leniolabs_ es ahora Improving South America!
+Somos una empresa internacional de desarrollo de software con miembros de equipos en Argentina, Chile, España y USA principalmente.
+Colaboramos en el desarrollo de software de nuestros clientes, sumándonos con nuestros equipos y estructura, trabajando directamente con los clientes los cuales se encuentran mayoritariamente en San Francisco.
+Trabajamos con equipos distribuidos, de manera remota y colaborativa, utilizando herramientas como Slack, Zoom, HO, Jira, etc. Nuestra experiencia se basa fuertemente en frontend development y También trabajamos en desarrollo backend.
+Valoramos a las personas dinámicas en el aprendizaje de nuevas tecnologías para utilizarlas en los proyectos.
+Esta oferta laboral está disponible en Get on Board.
+Funciones del cargo
+En Leniolabs/ Improving South America
+estamos en la búsqueda de
+Desarrolladores Mobile
+con experiencia comprobada desarrollando aplicaciones reales en producción
+utilizando .NET MAUI con despliegue en ambos sistemas operativos: iOS y Android.
+para trabajar en la creación y mantenimiento de soluciones móviles multiplataforma robustas, escalables y de alta calidad, en colaboración con equipos técnicos y de producto.
+El candidato ideal deberá contar con +3 años de experiencia en desarrollo mobile y mínimo 1 año de experiencia específica trabajando con .NET MAUI para:
+Desarrollar, optimizar y mantener apps móviles con .NET MAUI, enfocadas en performance, calidad y experiencia de usuario.
+Compilar y publicar apps para iOS y Android, asegurando la correcta integración de cada sistema.
+Participar en revisiones de código, planificación de features y resolución de bugs.
+Integrar APIs RESTful, servicios externos y bases de datos locales.
+Colaborar con equipos de UI/UX, QA, producto y backend para garantizar entregas alineadas con los requerimientos.
+Participar en procesos de testing, despliegue continuo y mantenimiento post-lanzamiento.
+Requerimientos del cargo
+Nivel de inglés intermedio/ avanzado (indispensable)
+Experiencia +3 años en desarrollo mobile.
+Experiencia comprobada desarrollando aplicaciones reales en producción con .NET MAUI con despliegue en ambos sistemas operativos: iOS y Android.
+Experiencia en desarrollo con C# y .NET 6/7/8 orientado a mobile.
+Dominio de patrones de arquitectura como MVVM, inyección de dependencias, manejo de estados.
+Uso de herramientas de control de versiones como Git.
+Consumo de APIs RESTful y manejo de autenticación.
+Experiencia con almacenamiento local (SQLite, Preferences, FileSystem).
+Conocimiento básico/intermedio de XAML para construcción de UI.
+Opcionales
+Experiencia previa con Xamarin.Forms o migración desde Xamarin a MAUI.
+Experiencia con CI/CD mobile pipelines.
+Familiaridad con Push Notifications, manejo de background services y permisos.
+Beneficios que ofrecemos
+Salario dolarizado (Argentina).
+100% Remoto.
+Posibilidad de recibir 2 bonos al año.
+2 revisiones salariales al año.
+Clases de inglés.
+Equipamiento Apple.
+Cursos UDEMY.
+Budget para compra de libros.
+Budget para compra de materiales de trabajo.
+Entre otros.
+GETONBRD Job ID: 53574
+Política de trabajo remoto
+Remoto sólo localmente
+El trabajo es 100% remoto, pero los candidatos deben residir en Chile, Colombia, Argentina o Perú para postular.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+C
+Git
+C#
+Back-end
+CI/CD
+SQLite
+APIs RESTful
+XAML
+MVVM
+Dependency Injection
+.NET 6
+.NET MAUI
+.NET 8
+RESTful API
+Push Notifications
+.NET 7
+Empleos
+›
+Desarrollo Mobile
+›
+Improving South America
+›
+Mobile Developer .NET Maui iOS/android
+Acerca de Improving South America
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/4161/improving-splash-200px.png
+Improving es una empresa de servicios de TI dedicada a cambiar positivamente la percepción del profesional de TI. Ofrecemos soluciones de vanguardia a través de consultoría de TI, desarrollo de software y formación ágil.
+—
+Perfil completo de Improving South America
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Desarrollo Mobile?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/4161/improving-splash-200px.png
+Mobile Developer .NET Maui iOS/android
+Improving South America
+ •
+Remoto
+(4 ubicaciones)
+Postula
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

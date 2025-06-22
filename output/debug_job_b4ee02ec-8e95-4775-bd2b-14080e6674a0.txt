@@ -1,0 +1,234 @@
+Tech Leader en AIMO - Perú | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/7831/aimoLOGO.jpeg
+AIMO
+https://www.getonbrd.com/companies/aimo
+Seguir
+08 de abril de 2025
+Tech Leader
+en
+AIMO
+FULL_TIME
+Lima
+Se trabaja algunos días de forma remota y otros en la oficina en:
+Lima
+(Híbrido)
+|
+Expert
+|
+Full time
+|
+Programación
+Sueldo bruto
+$3000 - 4500
+USD/mes
+58
+postulaciones
+Responde entre 4 y 8 días
+Revisado por última vez hoy
+Postular
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+🌎
+www.aimo.co
+Construye tecnología con impacto. Lidera el cambio en AIMO.
+En AIMO estamos revolucionando la forma en que la tecnología transforma la logística y la alimentación. Buscamos un Tech Lead que no sólo domine la ingeniería, sino que inspire, innove y sea parte de una cultura que valora la excelencia técnica y la colaboración estratégica.
+🧭
+Propósito del Rol
+Como Tech Lead en AIMO, serás el arquitecto del futuro tecnológico de la compañía. Tendrás la misión de liderar al equipo de desarrollo en la construcción de soluciones escalables, robustas y alineadas con las prioridades del negocio. Actuarás como puente entre la visión estratégica y la ejecución técnica, impulsando una cultura de alto rendimiento, mejora continua y excelencia operativa.
+https://aimo.co
+Aplica directamente a través de getonbrd.com.
+Responsabilidades Principales
+Liderazgo Técnico:
+Acompañar y potenciar al equipo de desarrollo, guiando la implementación de soluciones basadas en buenas prácticas y principios de ingeniería moderna.
+Arquitectura Escalable:
+Diseñar arquitecturas robustas basadas en microservicios, orientadas a eventos y desplegadas en entornos cloud (AWS/GCP).
+Traducción de Requerimientos:
+Convertir desafíos de negocio en soluciones técnicas concretas, eficientes y sostenibles.
+Colaboración Estratégica:
+Trabajar de la mano con áreas de producto, QA, DevOps y stakeholders para garantizar soluciones de alto impacto.
+Gestión del Ciclo de Vida de Servicios:
+Supervisar la evolución, calidad y disponibilidad de APIs, microservicios y componentes críticos del sistema.
+Continuidad y Escalabilidad Operativa:
+Anticiparse a incidentes, promover automatizaciones y fortalecer la infraestructura técnica de la compañía.
+Mentoría y Mejora Continua:
+Impulsar prácticas de revisión de código, aprendizaje compartido y evolución constante del stack y del equipo.
+Experiencia indispensable
++10 años de experiencia en tecnología, con foco en desarrollo de software.
++4 años liderando equipos técnicos en entornos ágiles y de alto dinamismo.
++5 años de experiencia en desarrollo
+Fullstack
+con dominio de JavaScript,
+React.js, Node.js, MongoDB, Redis, NATS, BullQueue y Moleculer.js
+.
+Sólida experiencia diseñando e implementando arquitecturas basadas en
+microservicios
+.
+Conocimientos sólidos de
+DevOps
+, CI/CD y automatización de despliegues.
+Experiencia en
+arquitecturas orientadas a eventos
+y diseño de soluciones complejas para aplicaciones web y móviles.
+Experiencia avanzada en
+cloud computing
+(AWS, GCP) y administración de
+Kubernetes Clusters
+.
+Habilidades de que valoramos
+Visión Estratégica:
+Capacidad de analizar la viabilidad técnica de las iniciativas, anticipar desafíos y construir soluciones escalables.
+Liderazgo Inspirador:
+Promueves la excelencia técnica y el crecimiento del equipo, liderando desde el ejemplo.
+Comunicación Efectiva:
+Sabes cómo conectar con perfiles técnicos y de negocio, construyendo puentes y alineando objetivos.
+GETONBRD Job ID: 52854
+Condiciones
+Horario flexible
+Entrada y salida flexibles, libertad para realizar trámites personales o familiares.
+Teletrabajo opcional
+Algunos días puedes trabajarlos desde tu casa.
+Cobertura de salud
+AIMO paga o copaga cobertura de salud adicional a lo legal.
+Computadora
+AIMO proporciona una computadora para tu trabajo.
+Vestimenta informal
+AIMO no exige ningún código de vestimenta.
+Vacaciones extra
+AIMO otorga vacaciones pagadas adicionales al mínimo legal.
+Bebidas y snacks
+AIMO ofrece algunas bebidas y snacks de libre disposición en la oficina.
+Política de trabajo remoto
+Híbrido
+Se trabaja algunos días de forma remota y otros en la oficina en Lima (Perú).
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+JavaScript
+Redis
+Agile
+Front-end
+Node.js
+NoSQL
+DevOps
+Virtualization
+React
+Amazon Web Services
+MongoDB
+Microservices
+Kubernetes
+Full-stack
+Cloud Computing
+Back-end
+Google Cloud Platform
+CI/CD
+Cloud
+GCP
+AWS
+React.js
+Software
+Tech
+NATS
+Moleculer
+Bull
+Event-Driven Architecture
+BullQueue
+Empleos
+›
+Programación
+›
+AIMO
+›
+Tech Leader
+Acerca de AIMO
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/7831/aimoLOGO.jpeg
+Aimo es una plataforma diseñada para facilitar y optimizar el proceso de delivery de los restaurantes y negocios de comida.🥗 Automatiza procesos desde la toma de pedidos🗒️ hasta entrega en el domicilio de tus clientes.
+—
+Perfil completo de AIMO
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+Ofertas de trabajo similares
+Full-Stack SSR
+coderslab.io
+—
+Lima
+Se trabaja algunos días de forma remota y otros en la oficina en:
+Lima
+(Híbrido)
+Postular
+Senior Software Engineer
+OpenLoop
+—
+Lima
+Se trabaja algunos días de forma remota y otros en la oficina en:
+Lima
+(Híbrido)
+Postular
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/7831/aimoLOGO.jpeg
+Tech Leader
+AIMO
+ •
+Lima
+Se trabaja algunos días de forma remota y otros en la oficina en:
+Lima
+(Híbrido)
+Postula
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

@@ -1,0 +1,170 @@
+Senior Node.js Cloud Developer en Improving South America - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/4161/improving-splash-200px.png
+Improving South America
+https://www.getonbrd.com/companies/improving
+Seguir
+10 de junio de 2025
+Senior Node.js Cloud Developer
+en
+Improving South America
+FULL_TIME
+Remoto
+(5 ubicaciones)
+|
+Senior
+|
+Full time
+|
+Programación
+137
+postulaciones
+Responde entre 14 y 26 días
+Last checked today
+Postular
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Leniolabs_ es ahora Improving South America!
+Somos una empresa internacional de desarrollo de software con miembros de equipos en Argentina, Chile, España y USA principalmente.
+Colaboramos en el desarrollo de software de nuestros clientes, sumándonos con nuestros equipos y estructura, trabajando directamente con los clientes los cuales se encuentran mayoritariamente en San Francisco.
+Trabajamos con equipos distribuidos, de manera remota y colaborativa, utilizando herramientas como Slack, Zoom, HO, Jira, etc. Nuestra experiencia se basa fuertemente en frontend development y También trabajamos en desarrollo backend.
+Valoramos a las personas dinámicas en el aprendizaje de nuevas tecnologías para utilizarlas en los proyectos.
+Oportunidad laboral publicada en getonbrd.com.
+Funciones del cargo
+En Improving South America buscamos un/a ✶ Senior Node.js Cloud Developer ✶ para sumarse a un proyecto global enfocado en el desarrollo de un producto de gestión financiera, en colaboración directa con un cliente con presencia en Canadá, EE.UU., Europa y Asia.
+Estamos en busca de un perfil senior con sólida experiencia en Node.js y TypeScript, capaz de diseñar soluciones escalables en entornos Serverless sobre AWS.
+Responsabilidades principales:
+Desarrollo backend con Node.js + TypeScript, asegurando calidad, performance y escalabilidad.
+Implementación de arquitecturas Serverless y Event-Driven.
+Gestión de funciones y servicios sin servidor con Serverless Framework.
+Integración de servicios AWS como Lambda, API Gateway, EventBridge, SNS, SQS y Step Functions.
+Infraestructura como código utilizando Terraform o AWS CDK.
+Trabajo en equipo junto a perfiles internacionales, participando en decisiones técnicas clave.
+Skill requerido
++10 años de experiencia en desarrollo de software.
++5 años desarrollando con Node.js (indispensable).
+Experiencia sólida en TypeScript (indispensable).
+Dominio en desarrollo Serverless y arquitectura Event-Driven.
+Experiencia con servicios AWS: Lambda, API Gateway, EventBridge, SNS, SQS, Step Functions.
+Conocimiento y experiencia con IaC: Terraform o AWS CDK.
+Experiencia comprobable en entornos AWS (prioritario sobre otras nubes).
+Nivel de inglés intermedio/avanzado (excluyente).
+Certificación en AWS (bonus).
+Fuertes habilidades de comunicación, trabajo en equipo, organización y gestión del tiempo.
+Beneficios
+Salario dolarizado (Argentina)
+Metlife (Chile)
+100% Remoto.
+Posibilidad de recibir 2 bonos al año
+2 revisiones salariales al año
+Vacaciones
+Clases de inglés
+Equipamiento Apple
+Cursos UDEMY
+Budget para compra de libros
+Budget para compra de materiales de trabajo
+GETONBRD Job ID: 53789
+Horario flexible
+Entrada y salida flexibles, libertad para realizar trámites personales o familiares.
+Espacios para charlas internas
+Improving South America entrega espacio para realizar presentaciones o charlas en horarios de trabajo.
+Computadora
+Improving South America proporciona una computadora para tu trabajo.
+Política de trabajo remoto
+Remoto sólo localmente
+El trabajo es 100% remoto, pero los candidatos deben residir en Argentina, Colombia, Chile, Perú o Uruguay para postular.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+Node.js
+TypeScript
+Terraform
+AWS Lambda
+Serverless
+SQS
+SNS
+Step Functions
+API Gateway
+Event Bridge
+Event-Driven Architecture
+AWS CDK
+Empleos
+›
+Programación
+›
+Improving South America
+›
+Senior Node.js Cloud Developer
+Acerca de Improving South America
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/4161/improving-splash-200px.png
+Improving es una empresa de servicios de TI dedicada a cambiar positivamente la percepción del profesional de TI. Ofrecemos soluciones de vanguardia a través de consultoría de TI, desarrollo de software y formación ágil.
+—
+Perfil completo de Improving South America
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/4161/improving-splash-200px.png
+Senior Node.js Cloud Developer
+Improving South America
+ •
+Remoto
+(5 ubicaciones)
+Postula
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

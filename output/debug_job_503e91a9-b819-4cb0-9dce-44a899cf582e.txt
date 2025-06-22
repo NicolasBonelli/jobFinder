@@ -1,0 +1,245 @@
+Front-end Developer – ASP.NET Razor / Bootstrap / Jquery en JGRP - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15788/123628879(2).png
+JGRP
+https://www.getonbrd.com/companies/jgrp
+Seguir
+17 de junio de 2025
+Front-end Developer – ASP.NET Razor / Bootstrap / Jquery
+en
+JGRP
+FULL_TIME
+Remoto
+|
+Senior
+|
+Full time
+|
+Programación
+Sueldo bruto
+$1500 - 2000
+USD/mes
+43
+postulaciones
+Responde entre 1 y 5 días
+Revisado por última vez hoy
+Postular
+Postulación rápida
+Requiere postular en Inglés
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+You’ll be joining a team at
+JGRP
+, a boutique software agency known for building reliable, thoughtfully crafted web applications for nonprofits, educational institutions, and startups.
+The project you’ll work on is a large
+ASP.NET MVC application
+with Razor views and a jQuery/Bootstrap frontend, reliability, consistency, and thoughtful improvements matter a lot. You’ll be working closely with our backend developers and project managers to ensure the UI is responsive, functional, and bug-free.
+Esta oferta laboral está en Get on Board.
+Job functions
+This role is about
+owning the frontend experience
+of a Razor Pages-based system. You’ll focus on layout bugs, JavaScript interactions, browser inconsistencies, and markup tied to C# ViewModels. This isn't a React job — it's about working in an environment where frontend and backend are tightly coupled.
+You’ll:
+Review and fix UI bugs and layout inconsistencies
+Refactor or simplify jQuery-heavy components for clarity and stability
+Polish Bootstrap-based styling across responsive breakpoints
+Collaborate with backend developers to ensure accurate data binding to views
+Participate in code reviews and QA checks
+Flag areas for improvement and propose solutions
+Success will be measured by
+:
+Consistency and reliability of your bug fixes
+How well you handle edge cases and test your changes
+Clear communication about what’s broken, fixed, and still pending
+Keeping changes tightly scoped and production-safe
+Qualifications and requirements
+We’re looking for a senior frontend developer who can confidently work within a legacy ASP.NET MVC application and improve the UI without introducing regressions or breaking business logic. The ideal candidate should have:
+Core Requirements
+6+ years of professional frontend development experience
+Strong jQuery skills with experience working in large, DOM-heavy applications
+Solid understanding of ASP.NET Razor Views and ViewModel (@model) binding patterns
+Excellent command of Bootstrap 4/5, especially for layout, responsiveness, and cross-device consistency
+Proficiency with Git and frontend debugging tools (e.g., Chrome DevTools)
+Fluent English writing and speaking skills are a must
+— you’ll be expected to communicate clearly with the team and document your work as needed
+You should be comfortable doing the following:
+Debugging Razor Pages by mapping rendered HTML to the correct ViewModel
+Fixing layout inconsistencies across screen sizes and devices
+Resolving broken JavaScript or jQuery interactivity issues
+Diagnosing whether a bug is caused by CSS, JS, or backend data logic
+Bonus Skills (Nice to Have)
+Experience working in large, legacy codebases
+Familiarity with jQuery plugins like Toastr and Select2
+A sharp eye for UI/UX details such as spacing, alignment, and hierarchy
+Understanding of how ViewState, POST/GET binding, and form submission flows work in .NET MVC
+Comfort with backend logic in C# — enough to trace data flow, spot issues, or assist with backend fixes when needed
+Conditions
+🚀
+Fully Remote
+– Work from anywhere within
+UTC-2 to UTC-8
+.
+🚀
+Flexible Work Schedule
+– Set your own hours to balance work and personal life.
+GETONBRD Job ID: 54359
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Mascotas permitidas
+Las mascotas son bienvenidas en la oficina.
+Horario flexible
+Entrada y salida flexibles, libertad para realizar trámites personales o familiares.
+Espacios para charlas internas
+JGRP entrega espacio para realizar presentaciones o charlas en horarios de trabajo.
+Vestimenta informal
+JGRP no exige ningún código de vestimenta.
+Día de cumpleaños libre
+El día de tu cumpleaños es canjeable por un día completo de vacaciones.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+JavaScript
+.Net
+UX
+HTML5
+CSS
+jQuery
+C
+Git
+ASP
+C#
+MVC
+Bootstrap
+Back-end
+Razor
+Debugging
+ASP.NET
+HTML
+UI
+Chrome Dev Tools
+Chrome DevTools
+.NET MVC
+Responsive Design
+Flow
+Regression Testing
+SOLID
+Writing
+Pattern Recognition
+Business Logic
+ViewModel
+DOM
+Fluent English
+Responsiveness
+Screen Sizes
+Mapping
+Back End
+Layout
+Logic
+Interactivity
+Apps
+Data Flow Analysis
+Front-End Web
+CAN Bus
+IS
+Cross-Device Compatibility
+Frontend Development
+Patterns
+Flows
+CAN
+Data
+Debugging Tools
+Core
+Razor Pages
+Cross-Device
+JS
+Applications
+Requirements
+ASP.NET Razor
+ViewModel Binding
+Toastr
+Select2
+C# ViewModel
+Empleos
+›
+Programación
+›
+JGRP
+›
+Front-end Developer – ASP.NET Razor / Bootstrap / Jquery
+Acerca de JGRP
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15788/123628879(2).png
+You'll join a talented team of developers at JGRP, committed to delivering tailored web solutions for a broad range of clients—from small startups to established enterprises. Our projects are diverse, ranging from user-friendly web apps to complex enterpr
+—
+Perfil completo de JGRP
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15788/123628879(2).png
+Front-end Developer – ASP.NET Razor / Bootstrap / Jquery
+JGRP
+ •
+Remoto
+Postula
+Postulación rápida
+Requiere postular en Inglés
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

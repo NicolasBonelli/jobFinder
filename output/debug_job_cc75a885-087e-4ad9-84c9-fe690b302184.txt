@@ -1,0 +1,165 @@
+Full-Stack Developer en Moventi - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/2389/Isotipo_Moventi.jpeg
+Moventi
+https://www.getonbrd.com/companies/peru-apps
+Seguir
+06 de mayo de 2025
+Full-Stack Developer
+en
+Moventi
+FULL_TIME
+Remoto
+|
+Senior
+|
+Full time
+|
+Programación
+139
+postulaciones
+Responde entre 12 y 20 días
+Revisado por última vez ayer
+Postular
+Requiere postular en Inglés
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Moventi is a technology-driven company committed to helping organizations lead with innovation by leveraging advanced technologies. We cultivate a collaborative and multidisciplinary environment that encourages continuous learning, skill development, and sharing of experiences among professionals. Our office is centrally located and designed to foster teamwork and creativity through agile workstations and recreational areas.
+The project involves joining our engineering department as a full-stack developer focused on building and extending our microservices platform.
+Postula únicamente desde getonbrd.com.
+Role and Responsibilities
+As a full-stack developer in our engineering team, you will be responsible for the entire lifecycle of back-end systems powering our microservices platform in a cloud environment. Your tasks will include designing, building, and extending APIs that serve both mobile and web applications.
+You will collaborate closely with mobile engineers to ensure seamless integration and will develop ReactJS screens that consume these APIs. Working remotely with colleagues in the United States and Prague, you will engage in effective communication and teamwork to deliver quality software solutions.
+Additionally, you will uphold best engineering practices including security, automated testing, and version control. The role requires flexibility to work core hours with occasional evenings for major sporting events, reflecting the startup-like culture we maintain.
+Required Skills and Experience
+At least 4 years of professional experience developing API-driven applications at scale.
+A degree in computer science or equivalent practical experience in software engineering.
+Mastery of Node.js development using TypeScript, delivering robust and scalable back-end services.
+Proficient with ReactJS and its relevant frameworks to build high-quality front-end experiences.
+Strong understanding and practical experience with relational databases and SQL for efficient data management.
+Experience building scalable applications within cloud environments, preferably with AWS and its underlying services.
+Expertise in automated testing approaches ensuring high-quality code, along with Git version control proficiency and familiarity with relevant development tools.
+Exceptional troubleshooting and debugging capabilities to dissect and resolve complex system issues methodically.
+Excellent communication skills suited for an entirely remote and globally dispersed team, enabling productive collaboration and transparency.
+Self-driven attitude with a strong work ethic and enthusiasm for tackling technical challenges.
+Ability to design systems thoughtfully, balancing extensibility and necessary trade-offs to meet user needs and business goals effectively.
+Comfort working in a dynamic, startup-like environment with core working hours and occasional extra hours to support major events.
+An eagerness to adopt and push boundaries with the latest AI tools and technologies to enhance developer and team productivity.
+Preferred Qualifications and Skills
+While not mandatory, familiarity with specific cloud services on AWS would be advantageous, allowing smoother infrastructure integration and scalability. Experience working with distributed teams in a remote, multicultural environment will enable faster adaptation and stronger collaboration. Additional knowledge of modern front-end frameworks beyond ReactJS or contribution to open-source projects would be a plus, demonstrating passion and continual professional growth. Understanding DevOps practices and CI/CD pipelines would further benefit the role by improving deployment efficiency and reliability. Finally, a keen interest in leveraging artificial intelligence technologies to optimize software development processes will align well with our innovation-driven culture.
+Benefits and Work Environment
+At Moventi, we provide a stimulating and collaborative work environment located in a central city area with convenient parking and relaxation areas for breaks and creative brainstorming. Our office features agile workstations designed to promote teamwork among professionals from diverse profiles, enhancing knowledge exchange and innovation.
+This role offers the opportunity to grow professionally by working on impactful technology projects with a supportive global team. While the position is fully remote, our cultural values and collaborative tools ensure team cohesion and personal development.
+GETONBRD Job ID: 53475
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Vestimenta informal
+Moventi no exige ningún código de vestimenta.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+Git
+Node.js
+SQL
+DevOps
+Microservices
+Artificial Intelligence
+Cloud Computing
+TypeScript
+CI/CD
+Debugging
+API Development
+AWS
+React.js
+APIs
+AI Tools
+API Design
+Design Patterns
+Troubleshooting
+Automated Testing
+Cloud Services
+Relational Databases
+Cloud Development
+Empleos
+›
+Programación
+›
+Moventi
+›
+Full-Stack Developer
+Acerca de Moventi
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/2389/Isotipo_Moventi.jpeg
+Technology is dramatically changing the world we live in. Our focus is to help organizations lead the way using technology with an innovation mindset.
+—
+Perfil completo de Moventi
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/2389/Isotipo_Moventi.jpeg
+Full-Stack Developer
+Moventi
+ •
+Remoto
+Postula
+Requiere postular en Inglés
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

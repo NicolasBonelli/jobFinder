@@ -1,0 +1,183 @@
+Desarrollador Mobile Android Latam en BC Tecnología - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Desarrollo Mobile
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/9458/Copia_de_logo.png
+BC Tecnología
+https://www.getonbrd.com/companies/bctecnologia
+Seguir
+11 de junio de 2025
+Desarrollador Mobile Android Latam
+en
+BC Tecnología
+FULL_TIME
+Remoto
+|
+Semi Senior
+|
+Full time
+|
+Desarrollo Mobile
+Sueldo bruto
+$2500 - 2800
+USD/mes
+129
+postulaciones
+Responde entre 1 y 13 días
+Revisado por última vez hoy
+Postular
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+En BC Tecnología somos una consultora de TI con amplia experiencia en múltiples áreas tecnológicas, asesorando y desarrollando soluciones para clientes de sectores como servicios financieros, retail, seguros y gobierno. Nos especializamos en la creación de equipos ágiles para abordar desafíos de infraestructura tecnológica, desarrollo de software, y unidades de negocio, garantizando entregas de calidad con metodologías modernas. Este proyecto en particular es un desarrollo de aplicaciones móviles nativas para Android, orientado al mercado LATAM, con una duración aproximada de 6 meses. El objetivo es crear apps robustas, con alto estándar técnico, integración con servicios backend y un enfoque en la calidad, rendimiento y mantenibilidad a largo plazo.
+Este empleo es original de Get on Board.
+Responsabilidades del Puesto
+Como Desarrollador Mobile Android en este proyecto, serás responsable de diseñar, desarrollar e implementar aplicaciones móviles nativas utilizando Kotlin, asegurando que cumplan con altos estándares técnicos y funcionales. Deberás integrar los sistemas backend mediante APIs REST, optimizando el rendimiento y la experiencia del usuario. Trabajarás con patrones de diseño mobile y técnicas de multithreading para optimizar la eficiencia de las aplicaciones. Además, participarás activamente en procesos de control de versiones usando GitLab, GitFlow y pipelines CI/CD en GitHub. Se valorará tu capacidad para adaptarte a metodologías ágiles y colaborar en equipos distribuidos, desempeñando tus tareas en modalidad home office con una comunicación fluida y constante con el resto de los equipos.
+En detalle, tus funciones incluyen:
+Desarrollo de aplicaciones Android nativas con Kotlin.
+Implementación de interfaces modernas y eficientes, preferiblemente usando Jetpack Compose.
+Integración y consumo de APIs RESTful para comunicación con backend.
+Aplicación de patrones de diseño móvil y técnicas de programación concurrente.
+Gestión de versiones y colaboración con flujo GitFlow en GitLab y GitHub.
+Participación en el mantenimiento y mejora continua de las aplicaciones.
+Colaboración en equipos ágiles y adaptación a cambios rápidos del proyecto.
+Requisitos y Perfil Profesional
+Buscamos un profesional con al menos 3 años de experiencia comprobable en desarrollo de aplicaciones móviles nativas para Android. Debe dominar Kotlin, con conocimientos prácticos preferiblemente en Jetpack Compose para el desarrollo de interfaces declarativas modernas. Es esencial que posea un manejo sólido en patrones de diseño específicos del desarrollo móvil y técnicas de multithreading para optimizar el rendimiento.
+Además, se requiere experiencia integrando aplicaciones con servicios backend a través de APIs REST y una sólida comprensión en el uso de herramientas de gestión de código como GitLab y GitHub, trabajando con flujos GitFlow y con implementación de CI/CD para garantizar calidad en las entregas.
+El candidato debe ser una persona proactiva, con capacidad para trabajar en modalidad remota, comunicarse eficazmente con equipos distribuidos y adaptarse a metodologías ágiles, valorando la colaboración y la mejora continua. Se espera que tenga habilidades para resolver problemas técnicos complejos y con enfoque en la mantenibilidad y escalabilidad del código.
+Habilidades y Conocimientos Deseables
+Se valorarán conocimientos y experiencia en Jetpack Compose para el desarrollo declarativo de interfaces, así como experiencia en metodologías ágiles (Scrum, Kanban) para el trabajo en equipo. Cualquier conocimiento adicional en automatización de pruebas, monitoreo de aplicaciones móviles, o experiencia previa en proyectos internacionales o con enfoque LATAM será un plus relevante.
+Beneficios y Cultura Organizacional
+En BC Tecnología promovemos un ambiente de trabajo colaborativo que valora el compromiso y el aprendizaje constante. Nuestra cultura se orienta al crecimiento profesional a través de la integración y el intercambio de conocimientos entre equipos.
+La modalidad ofrecida es 100% remota, favoreciendo la flexibilidad y un adecuado equilibrio entre la vida laboral y personal.
+Participarás en proyectos innovadores con clientes de alto nivel y sectores diversos, en un entorno que fomenta la inclusión, el respeto y el desarrollo técnico y profesional.
+GETONBRD Job ID: 54211
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+Android
+Agile
+REST API
+Continuous Deployment
+Kotlin
+CI/CD
+Mobile development
+Continual improvement process
+GitLab
+Github
+GitHub
+Mobile
+API Rest
+APIs
+Agile Methodologies
+Metodologías ágiles
+Design Patterns
+Mejora Continua
+Herramientas de Gestión
+Git Flow
+Multithreading
+Pattern Recognition
+ES
+Android Jetpack Compose
+Back End
+Desarrollo Móvil
+Interfaces
+CD
+SER
+REST APIs
+Jetpack Compose
+Patrones de Diseño
+Desarrollo
+CI
+Desarrollo de Aplicaciones
+Implementación
+APIs REST
+Código
+Aplicaciones
+Servicios
+Calidad
+Rendimiento
+Colaboración
+Escalabilidad
+Flujos
+Empleos
+›
+Desarrollo Mobile
+›
+BC Tecnología
+›
+Desarrollador Mobile Android Latam
+Acerca de BC Tecnología
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/9458/Copia_de_logo.png
+Somos una consultora de TI con personal experto en diferentes áreas de tecnología.
+—
+Perfil completo de BC Tecnología
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Desarrollo Mobile?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/9458/Copia_de_logo.png
+Desarrollador Mobile Android Latam
+BC Tecnología
+ •
+Remoto
+Postula
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

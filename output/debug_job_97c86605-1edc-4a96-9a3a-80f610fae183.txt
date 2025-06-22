@@ -1,0 +1,237 @@
+Desarrollador Full-Stack PHP en Factor IT - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15558/Isotipo_a_color_GRANDE.png
+Factor IT
+https://www.getonbrd.com/companies/factor-it-y-compania-sac
+Seguir
+16 de junio de 2025
+Desarrollador Full-Stack PHP
+en
+Factor IT
+FULL_TIME
+Remoto
+|
+Senior
+|
+Full time
+|
+Programación
+129
+postulaciones
+Responde entre 1 y 13 días
+Revisado por última vez hoy
+Postular
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+FactorIT es una empresa líder en el sector tecnológico con presencia en 8 países de Latinoamérica y en plena expansión. Nuestra compañía ofrece soluciones innovadoras en Data & Analytics, Transformación Digital e Inteligencia Artificial para grandes empresas regionales. Nos especializamos en brindar servicios que integran tecnologías avanzadas para atender los desafíos más complejos de nuestros clientes en diferentes industrias, fomentando la innovación y generando un impacto tangible en la transformación digital de la región.
+El proyecto actual está centrado en el desarrollo y mantenimiento de aplicaciones relacionadas con plataformas educativas y soluciones de colaboración, utilizando tecnologías robustas de backend y frontend. Además, participa en iniciativas que exigen escalabilidad, eficiencia y seguridad para soportar grandes volúmenes de usuarios y datos, colaborando con equipos multidisciplinarios para mejorar la experiencia del usuario y optimizar procesos internos.
+Aplica directamente en el sitio original en Get on Board.
+Responsabilidades principales
+Diseñar, desarrollar y mantener aplicaciones backend y frontend, asegurando una integración efectiva y funcionalidad óptima.
+Construir y optimizar APIs que manejen altos volúmenes de datos y tráfico, garantizando rendimiento y escalabilidad.
+Colaborar estrechamente con equipos de UX/UI para implementar interfaces de usuario atractivas, intuitivas y eficientes que mejoren la experiencia del usuario.
+Aplicar las mejores prácticas y patrones de diseño de software, respetando las convenciones establecidas para módulos, componentes y nomenclaturas del equipo.
+Implementar prácticas de desarrollo seguro para proteger las aplicaciones contra vulnerabilidades y garantizar su seguridad.
+Monitorear y analizar el rendimiento de las aplicaciones en producción, realizando ajustes necesarios para maximizar la eficiencia y la usabilidad.
+Seguir y respetar estrictamente las directrices de desarrollo y arquitectura definidas por el equipo técnico.
+Liderar y guiar a otros desarrolladores en el diseño, desarrollo y optimización de aplicaciones, promoviendo la mejora continua y el aprendizaje colaborativo.
+Requisitos y habilidades necesarias
+Buscamos un profesional con experiencia sólida como desarrollador Fullstack, con dominio técnico y habilidades para el trabajo en equipo, la comunicación efectiva y la resolución de problemas. El candidato ideal debe contar con conocimientos profundos en:
+Tecnologías técnicas:
+Moodle (versiones 3.7 y 4.1.6+), administración y desarrollo de esta plataforma.
+Sistemas operativos:
+Manejo de Linux vía SSH (CentOS 8 y Ubuntu 18.04) sin interfaz gráfica.
+Software de conferencias:
+Experiencia con BigBlueButton versiones 2.3 y 2.7.
+Lenguaje y bases de datos:
+PHP 7.2 y MySQL para desarrollo y gestión de datos.
+Metodologías y herramientas DevOps:
+Uso de Gitflow, Kubernetes y prácticas DevOps para garantizar despliegues eficientes y control de versiones.
+Certificaciones requeridas:
+Moodle Admin Skills y Moodle Developer Skills en cualquier nivel, que avalen la capacidad técnica y operativa en la plataforma Moodle.
+Habilidades blandas fundamentales:
+Comunicación efectiva:
+Capacidad para explicar conceptos técnicos complejos a diversos públicos, escucha activa, y asertividad en la expresión de ideas y feedback.
+Trabajo en equipo y colaboración:
+Interacción fluida con desarrolladores frontend, backend, QA, diseñadores UX/UI, gerentes de proyecto y stakeholders, fomentando un ambiente colaborativo y receptivo al feedback.
+Resolución de problemas y pensamiento crítico:
+Análisis detallado para identificar causas raíz, proactividad para anticiparse a desafíos y creatividad para proponer soluciones innovadoras.
+Adaptabilidad y flexibilidad:
+Disposición para aprendizaje continuo y capacidad de gestionar cambios en requisitos, prioridades y tecnologías.
+Gestión del tiempo y priorización:
+Organización para manejar múltiples tareas, autonomía para trabajar de forma independiente, especialmente en entornos remotos.
+Orientación al detalle:
+Garantizar calidad y funcionamiento tanto en frontend como backend, minimizando errores.
+Empatía:
+Comprender la perspectiva del usuario final para crear productos intuitivos, accesibles y alineados a sus necesidades.
+Habilidades y conocimientos deseables
+Experiencia previa en proyectos relacionados con plataformas educativas y entornos de e-learning.
+Conocimiento avanzado en seguridad informática aplicada a desarrollo de software.
+Familiaridad con la automatización de pruebas y control de calidad en entornos DevOps.
+Capacidad para aportar en la mejora continua de procesos y metodologías ágiles.
+Habilidades en diseño y experiencia de usuario para apoyar iniciativas frontend.
+Beneficios de trabajar en FactorIT
+Ofrecemos modalidad de trabajo 100% remota o híbrida desde Santiago, Chile, brindando flexibilidad horaria para un balance saludable entre la vida profesional y personal, adaptándose a las necesidades individuales.
+FactorIT proporciona un ambiente colaborativo, dinámico y con tecnologías de última generación que facilitan el crecimiento profesional constante y la innovación tecnológica.
+Nuestro paquete salarial es competitivo y acorde a la experiencia y perfil, complementado con una cultura inclusiva que valora la diversidad, creatividad y el trabajo en equipo.
+Al unirte a FactorIT, participarás en proyectos desafiantes con impacto real en la transformación tecnológica de la región y en el sector financiero, dentro de una organización que promueve la innovación y el desarrollo profesional continuo.
+GETONBRD Job ID: 54299
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Computadora
+Factor IT proporciona una computadora para tu trabajo.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+UX
+UI Design
+PHP
+MySQL
+Linux
+DevOps
+QA
+CentOS
+Kubernetes
+Full-stack
+Back-end
+CI/CD
+API Development
+Security
+Software
+Comunicación efectiva
+Resolución de problemas
+Moodle
+Trabajo En Equipo
+SSH
+Proactivity
+Git Flow
+Software Security
+Empathy
+Ubuntu
+Asertividad
+Big Blue Button
+Feedback
+Back End
+Control de Gestión
+Full Stack
+Front-End Web
+Sistemas Operativos
+Análisis
+UX/UI
+Desarrollo
+Proactividad
+Administración
+Organización
+Bases de Datos
+Creatividad
+Gestión del Tiempo
+Metodologías
+Errores
+Tecnologías
+Interacción
+Empatía
+Calidad
+Control de Versiones
+Autonomía
+Proyecto
+Priorización
+Colaboración
+Gestión de Datos
+Adaptabilidad
+Herramientas DevOps
+Requisitos
+Escucha Activa
+Habilidades Blandas
+Stakeholders
+Productos
+Soluciones
+Flexibilidad
+PHP 7
+Certificaciones
+Aprendizaje
+Despliegues
+Interfaz gráfica
+Técnico
+Pensamiento Crítico
+Empleos
+›
+Programación
+›
+Factor IT
+›
+Desarrollador Full-Stack PHP
+Acerca de Factor IT
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15558/Isotipo_a_color_GRANDE.png
+FactorIT, líder en tecnología con presencia en 8 países, ofrece soluciones en Data y Analytics, Transformación Digital e IA. Únete a un equipo innovador y desafiante que impulsa la transformación tecnológica en grandes empresas.
+—
+Perfil completo de Factor IT
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15558/Isotipo_a_color_GRANDE.png
+Desarrollador Full-Stack PHP
+Factor IT
+ •
+Remoto
+Postula
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

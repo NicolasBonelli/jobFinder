@@ -1,0 +1,211 @@
+Technical Lead Java en SEEK - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15022/seek_peru_logo.jpeg
+SEEK
+https://www.getonbrd.com/companies/seekglobal
+Seguir
+12 de junio de 2025
+Technical Lead Java
+en
+SEEK
+FULL_TIME
+Remoto
+|
+Senior
+|
+Full time
+|
+Programación
+54
+postulaciones
+Responde entre 14 y 24 días
+Revisado por última vez hoy
+Postular
+Postulación rápida
+Requiere postular en Español
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Somos Seek, una empresa de tecnología centrada en el diseño y desarrollo de soluciones digitales de alto impacto. Nuestro enfoque está basado en la innovación, la colaboración y la mejora continua. Trabajamos con equipos multidisciplinarios y metodologías ágiles para generar productos que entreguen valor real a los usuarios y a nuestros clientes.
+Aplica directamente en el sitio original en Get on Board.
+Responsabilidades Principales
+Liderar técnica y funcionalmente al equipo de desarrollo.
+Participar en la definición técnica de requerimientos junto al Product Owner.
+Diseñar arquitecturas escalables y limpias, alineadas con los estándares del proyecto.
+Desarrollar e implementar APIs REST/GraphQL utilizando Java (Spring Boot).
+Supervisar y colaborar en el desarrollo del frontend con frameworks como React, Next.js o Vue.
+Asegurar el uso adecuado de mecanismos de seguridad (OWASP Top 10) y validaciones de código.
+Implementar y mantener flujos de integración y entrega continua (CI/CD).
+Coordinar el uso eficiente de herramientas de control de versiones (Git, GitFlow).
+Revisar código fuente (code review) y promover buenas prácticas de desarrollo.
+Documentar adecuadamente las decisiones técnicas y arquitectónicas.
+Trabajar con bases de datos relacionales y no relacionales (PostgreSQL, MongoDB, Redis).
+Coordinar y facilitar el uso de pruebas automatizadas (unitarias, integración).
+Apoyar la integración de sistemas mediante APIs, colas de mensajes, FTP u otros métodos.
+Gestionar prioridades técnicas, indicadores de calidad y métricas de producto.
+Requisitos
+Profesional en Ingeniería de Sistemas, Informática o afines.
+Más de 4 años de experiencia en desarrollo con Java (Spring Boot, Spring Batch).
+Experiencia liderando equipos de desarrollo de software web o móvil.
+Dominio de metodologías ágiles (Scrum, Kanban).
+Conocimiento sólido de principios de diseño, Clean Code, SOLID y buenas prácticas de arquitectura.
+Experiencia en despliegue en la nube (deseable).
+Inglés intermedio o superior (deseable).
+Conocimiento en seguridad de aplicaciones (deseable).
+Capacidad para guiar técnicamente, tomar decisiones y coordinar entregas en tiempo.
+Se valorará adicionalmente
+Experiencia con Flutter y aplicaciones móviles.
+Experiencia en proyectos de alto tráfico o escalabilidad.
+Participación en diseño de sistemas distribuidos o arquitecturas basadas en microservicios.
+Conocimientos de infraestructura, DevOps o herramientas como Docker, Kubernetes o Terraform.
+Interés en tecnologías emergentes como IA, Big Data o IoT.
+Beneficios
+La oportunidad de trabajar en una empresa multicultural con proyectos desafiantes e innovadores. 🌍
+Medio día libre por cumpleaños. 🎉
+Bonificación en dólares por referidos. 💵
+Capacitaciones. 📚
+Línea de carrera y crecimiento profesional. 🚀
+Buen clima laboral 🏖
+Modalidad 100% remota con horario flexible enfocado en cumplimiento y entregables.
+GETONBRD Job ID: 54217
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Horario flexible
+Entrada y salida flexibles, libertad para realizar trámites personales o familiares.
+Vestimenta informal
+SEEK no exige ningún código de vestimenta.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+Java
+Redis
+Agile
+PostgreSQL
+Git
+REST API
+DevOps
+React
+MongoDB
+Scrum
+Docker
+Microservices
+GraphQL
+Kubernetes
+Kanban
+English
+Back-end
+CI/CD
+Tech Lead
+Cloud
+Spring Boot
+Terraform
+Next.js
+Kanban
+APIs
+Metodologías ágiles
+OWASP
+Clean Architecture
+Nube
+SOLID
+Git Flow
+Intermediate English
+Technical Leadership
+Spring Batch
+Web
+Clean Code
+Vue
+Desarrollo
+Diseño
+Inglés
+Arquitectura
+Desarrollo de Software
+Informática
+Ingeniería de Sistemas
+Technical Lead
+Móvil
+Buenas Prácticas
+Despliegue
+Seguridad de Aplicaciones
+Empleos
+›
+Programación
+›
+SEEK
+›
+Technical Lead Java
+Acerca de SEEK
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15022/seek_peru_logo.jpeg
+Somos un equipo multidisciplinario que busca entrelazar la estrategia, el diseño y la tecnología. Bajo un enfoque de diseño centrado en el humano, construimos productos digitales, servicios y experiencias orientadas a generarle valor a tu negocio.
+—
+Perfil completo de SEEK
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15022/seek_peru_logo.jpeg
+Technical Lead Java
+SEEK
+ •
+Remoto
+Postula
+Postulación rápida
+Requiere postular en Español
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

@@ -1,0 +1,177 @@
+Sr Embedded Software Engineer en Moventi - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Programación
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/2389/Isotipo_Moventi.jpeg
+Moventi
+https://www.getonbrd.com/companies/peru-apps
+Seguir
+09 de abril de 2025
+Sr Embedded Software Engineer
+en
+Moventi
+FULL_TIME
+Remoto
+|
+Senior
+|
+Full time
+|
+Programación
+97
+postulaciones
+Responde entre 12 y 20 días
+Revisado por última vez hoy
+Postular
+Requiere postular en Inglés
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+En
+Moventi
+, estamos a la vanguardia de la transformación tecnológica, ayudando a organizaciones a liderar el camino hacia la innovación. El área de ingeniería de software embebido se dedica a desarrollar soluciones avanzadas que integran diariamente la tecnología con las necesidades del mundo real. Trabajarás en un ambiente colaborativo donde el enfoque en el aprendizaje continuo y la experimentación son fundamentales.
+Aplica sin intermediarios desde Get on Board.
+Responsabilidades del Rol
+Como
+Sr Embedded Software Engineer
+, serás responsable de diseñar, desarrollar y optimizar software embebido para diferentes dispositivos y sistemas. Tus principales responsabilidades incluirán:
+Colaborar con equipos multidisciplinarios para identificar oportunidades de mejora y desafíos tecnológicos.
+Desarrollar código eficiente y reutilizable en C/C++ y otros lenguajes pertinentes.
+Realizar pruebas y validaciones de software para asegurar fiabilidad y funcionalidad.
+Participar en las revisiones de código y en la documentación de procesos y fórmulas utilizadas.
+Implementar nuevas metodologías y contribuir a la innovación del equipo ofreciendo ideas originales.
+Perfil y Experiencia Buscada
+BS in Computer Engineering, Electrical Engineering, Computer Science, or a related degree from an accredited university - Advanced English
+Minimum 7 years of experience in real-time embedded software development for safety-critical systems
+Excellent requirements engineering and software architecture/design experience
+Mastery of the C programming language
+Knowledge of Texas Instruments Hercules and/or STM ARM microcontrollers, or equivalent
+Comfortable reading electrical schematics, technical documentation, reference manuals, and datasheets
+Deep experience with electronics lab equipment such as programmable power supplies, signal generators, oscilloscopes, and bus analyzers
+Expert level knowledge and experience with the activities and outputs required for DO-178C Level A compliance
+Excellent team communication and collaboration skills
+Ability to work independently, as a member of an integrated team, and as a technical leader of a small team of dedicated software engineers
+Deep knowledge and experience with communications interfaces and devices such as SPI, I2C, CAN, ARINC 429, Analog-to-Digital Converters, Direct Memory Access controllers, and temperature, voltage, and current sensors
+Experience with Stage of Involvement reviews and communication with FAA personnel and DERs
+Experience with RTCA DO-330 tool qualification objectives, activities, and outputs
+Experience with RTCA DO-331 model-based development objectives, activities, and outputs
+Candidates are encouraged to apply even if they don’t meet all minimum qualifications
+Habilidades deseables
+Above and Beyond Qualifications that will distinguish you:
+Experience with the Texas Instruments TMS570 ARM microcontroller
+Experience with the Lauterbach TRACE32 debug/instruction trace system
+Experience with GNU GCC ARM embedded toolchain and Texas Instruments Code Composer Studio
+Experience with the Polarion ALM life cycle data management system
+Experience with embedded software for electric motor control, battery management systems, and/or flight control systems
+Experience with project management activities, such as estimating, tracking, and reporting work; traditional, kanban, and scrum experience
+¿Qué ofrecemos?
+Trabajo 100% remoto
+GETONBRD Job ID: 52878
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+C
+C++
+English
+Back-end
+Project Management
+Architecture
+Compliance
+Software
+Texas Instruments
+SPI
+I2C
+Embedded Systems
+GPS
+STM32
+Oscilloscope
+DMA
+CAN Bus
+CAN
+ARM Microcontrollers
+Texas Instruments Hercules
+STM Microcontrollers
+DO-178C
+GNU GCC ARM
+Empleos
+›
+Programación
+›
+Moventi
+›
+Sr Embedded Software Engineer
+Acerca de Moventi
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/2389/Isotipo_Moventi.jpeg
+Technology is dramatically changing the world we live in. Our focus is to help organizations lead the way using technology with an innovation mindset.
+—
+Perfil completo de Moventi
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Programación?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/2389/Isotipo_Moventi.jpeg
+Sr Embedded Software Engineer
+Moventi
+ •
+Remoto
+Postula
+Requiere postular en Inglés
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

@@ -1,0 +1,211 @@
+React Native Developer Smart Tv Platform en Zaelot - Remoto (teletrabajo) | Get on Board
+Oh sorpresa, Get on Board usa cookies.
+Para conocer más revisa nuestra
+Política de Privacidad y protección de datos personales
+Aceptar cookies
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Ingresa
+Empleadores
+Profesionales
+Regístrate
+Empleadores
+Profesionales
+Superpower AI
+📊 Salary Insights
+🏅 Certificación
+Precios
+ATS
+Ayuda
+Más trabajos de Desarrollo Mobile
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15945/zaelot_logo.jpeg
+Zaelot
+https://www.getonbrd.com/companies/zaelot-uy
+Seguir
+10 de junio de 2025
+React Native Developer Smart Tv Platform
+en
+Zaelot
+FULL_TIME
+Remoto
+|
+Senior
+|
+Full time
+|
+Desarrollo Mobile
+Sueldo bruto
+$4000 - 5500
+USD/mes
+104
+postulaciones
+Responde entre 10 y 16 días
+Revisado por última vez hoy
+Postular
+Postulación rápida
+Requiere postular en Inglés
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Zaelot is a dynamic software development company specializing in creating scalable and enterprise-grade solutions. With a diverse team of over 90 professionals spread across 9 countries, Zaelot fosters a culture of trust, collaboration, and continuous innovation.
+The Smart TV Platform project focuses on developing high-performance applications tailored specifically for large screen smart devices. This includes creating seamless user experiences optimized for the unique constraints and capabilities of Smart TVs.
+Aplica en getonbrd.com sin intermediarios.
+Key Responsibilities
+Develop, maintain, and enhance a Smart TV application using React Native to ensure a polished and engaging user experience on large screen devices.
+Collaborate closely with native Android developers to design and implement native bridges and custom modules enabling seamless communication between React Native and Kotlin codebases.
+Create smooth, responsive, and visually optimized user interfaces specifically tailored to Smart TV UX and navigation patterns.
+Optimize application performance and memory usage to run efficiently on constrained TV hardware environments.
+Write clean, modular, reusable, and testable code following best practices and software development standards.
+Engage in comprehensive code reviews, perform rigorous testing, and resolve debugging challenges collaboratively within a cross-functional team.
+Contribute to planning sessions and communicate effectively with product managers, designers, and peers to align development with project goals.
+Required Skills and Experience
+We are seeking a highly skilled React Native developer with at least 4 years of professional experience in mobile application development. You must have deep expertise in JavaScript and TypeScript, with a strong command of React Native's architecture, including functional components and React hooks.
+Experience working with or integrating native code is essential, particularly the ability to interface React Native with native Android modules written in Kotlin via custom bridges. Familiarity with Git version control and collaborative development environments is required.
+An excellent understanding of Smart TV or large-screen UX design principles is crucial to optimize UI layouts and interactions tailored for TV remotes and diverse display sizes. Strong problem-solving skills, attention to detail, and an ability to work seamlessly in a multidisciplinary team environment are qualities we value highly.
+Solid communication skills, combined with the ability to contribute constructively to code reviews and agile workflows, will ensure success in this role.
+Desired Additional Qualifications
+Experience in native Android development using Kotlin, especially related to Smart TV platforms.
+Prior involvement in Smart TV projects on platforms such as Tizen, webOS, or Android TV.
+Knowledge of media streaming protocols and technologies like HLS, MPEG-DASH, and DRM, to support video playback capabilities.
+Familiarity with performance profiling and optimization techniques targeting constrained, resource-limited devices.
+Why Join Zaelot?
+20 days of paid vacation after one year, supporting work-life balance.
+8 days of paid holidays in your country of residence.
+Referral programs and finder's fees that reward bringing talented professionals to our team.
+Ongoing training and certification programs to advance your professional development.
+Work-from-home support, creating an effective remote work environment.
+English language classes to boost communication and career opportunities.
+Fitness initiatives to promote health and wellbeing among employees.
+Profit sharing that reflects our commitment to collective success.
+Personalized coaching sessions for continuous growth.
+At Zaelot, we cultivate a supportive and innovative culture that values both technical excellence and personal growth. Join us to collaborate with passionate experts and be part of cutting-edge technology projects that impact enterprise clients globally. 🚀
+GETONBRD Job ID: 54160
+Programas de bienestar
+Zaelot ofrece o subsidia programas de bienestar mental y/o físico.
+Trabajo 100% remoto
+El cargo puede ser desempeñado desde cualquier lugar del mundo.
+Horario flexible
+Entrada y salida flexibles, libertad para realizar trámites personales o familiares.
+Espacios para charlas internas
+Zaelot entrega espacio para realizar presentaciones o charlas en horarios de trabajo.
+Ausencia por enfermedad pagada
+Se ofrece cobertura por días no trabajados a causa de enfermedad (pueden aplicar límites).
+Computadora
+Zaelot proporciona una computadora para tu trabajo.
+Programas de fitness
+Zaelot ofrece o subsidia programas de fitness y/o deporte.
+Coaching personal
+Zaelot ofrece consejería personal para sus empleados.
+Pre y postnatal adicionales a los legales
+Zaelot entrega períodos de pre y/o postnatal pagados superiores al mínimo legal.
+Política de trabajo remoto
+Totalmente remoto
+El trabajo es 100% remoto desde cualquier país.
+Postular
+Postula con tu email
+Postula con Google
+Postula con LinkedIn
+Postula con Twitter
+Postula con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Reporta este empleo
+JavaScript
+Android
+Git
+React-Native
+Functional Programming
+Kotlin
+TypeScript
+Mobile development
+Architecture
+React Native
+UI
+Communication
+Problem Solving
+Version Control
+Attention To Detail
+Mobile App Development
+SOLID
+Optimization
+React Hooks
+Agile Workflows
+Collaborative Development
+HLS
+MPEG-DASH
+Performance Profiling
+DRM
+Media Streaming
+Environments
+Layout
+Native Android
+Smart TV
+IS
+Multidisciplinary
+Modules
+Display
+Code Reviews
+Mobile Application Development
+Optimize
+Communication Skills
+Functional Components
+Layouts
+UX Design Principles
+Native
+Smart TV UX
+Empleos
+›
+Desarrollo Mobile
+›
+Zaelot
+›
+React Native Developer Smart Tv Platform
+Acerca de Zaelot
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15945/zaelot_logo.jpeg
+Zaelot is a team-building company focused on developing scalable solutions for enterprise-grade clients. With over 90 employees in 9 countries, we prioritize trust, reliability, and a culture of collaboration. 
+—
+Perfil completo de Zaelot
+Seguir
+Empleo anterior
+<
+Siguiente empleo
+>
+¿Buscando empleos de Desarrollo Mobile?
+Regístrate gratis y descubre empleos seleccionados para ti.
+Ingresa con tu email
+https://getonbrd-prod.s3.amazonaws.com/uploads/users/logo/15945/zaelot_logo.jpeg
+React Native Developer Smart Tv Platform
+Zaelot
+ •
+Remoto
+Postula
+Postulación rápida
+Requiere postular en Inglés
+Compartir este empleo
+Compartir
+Compartir
+:
+Copiar enlace
+E-mail
+LinkedIn
+Whatsapp
+Ingresa y postula a los mejores empleos.
+Ingresa con tu email
+Ingresa con Google
+Ingresa con LinkedIn
+Ingresa con Twitter
+Ingresa con GitHub
+¿Olvidaste con qué cuenta inicias sesión?
+×

@@ -12,11 +12,14 @@ async def extract_job_links(html):
         if href and "/jobs/" in href:
             full_url = f"https://www.getonboard.com{href}" if href.startswith("/") else href
             job_links.append(full_url)
+    print(f"🔗 Enlaces extraídos: {len(job_links)}")
+    if len(job_links) > 0:
+        print(f"Primeros 3 enlaces: {job_links[:3]}")
     return job_links
 
 async def extract_job_details(crawler, url, chain):
     """Extrae el texto de una oferta de empleo con BeautifulSoup y lo procesa con un LLM."""
-    from config import RUN_CONFIG  # Importar aquí para evitar circularidad
+    from config import RUN_CONFIG
     
     result = await crawler.arun(url, config=RUN_CONFIG)
     
