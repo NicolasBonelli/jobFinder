@@ -2,63 +2,58 @@ import asyncio
 import json
 import os
 import boto3
+from dotenv import load_dotenv
 from crawl4ai import AsyncWebCrawler
-from config import URL, BROWSER_CONFIG, RUN_CONFIG , BUCKET_NAME, OUTPUT_KEY
-from crawler import extract_job_links, extract_job_details
+from config import URL, BROWSER_CONFIG, RUN_CONFIG
 from llm import get_llm_chain
+from crawler import extract_job_links, extract_job_details
 
+load_dotenv()
+
+BUCKET_NAME = os.getenv("BUCKET_NAME")
 s3 = boto3.client("s3")
 
 
-async def run_scraper():
+async def main():
     async with AsyncWebCrawler(config=BROWSER_CONFIG) as crawler:
-        # 1. Scrappear página principal
+        # Scrapear la página principal
         result = await crawler.arun(URL, config=RUN_CONFIG)
 
         if not result.success:
-            print(f"❌ Falló el scraping: {result.error_message}")
-            return []
+            print(f"❌ Falló el scraping de la página principal: {result.error_message}")
+            return
 
-        # 2. Extraer enlaces
+        # Extraer enlaces de las ofertas
         job_links = await extract_job_links(result.html)
-        print(f"📋 {len(job_links)} ofertas encontradas")
+        print(f"📋 Encontrados {len(job_links)} enlaces de ofertas de empleo")
 
         if not job_links:
-            print("⚠️ No se encontraron enlaces.")
-            return []
+            print("⚠️ No se encontraron enlaces. Revisa el HTML.")
+            return
 
-        # 3. Obtener LLM de LangChain
+        # Obtener la cadena de LangChain/Gemini
         chain = get_llm_chain()
 
-        # 4. Scrappear cada oferta
+        # Scrapear cada oferta
         jobs = []
         for i, link in enumerate(job_links, 1):
-            print(f"🔍 Scraping {i}/{len(job_links)}: {link}")
+            print(f"🔍 Scraping oferta {i}/{len(job_links)}: {link}")
             job_details = await extract_job_details(crawler, link, chain)
             if job_details:
                 jobs.append(job_details)
-            await asyncio.sleep(1.0)  # para evitar baneos
+            await asyncio.sleep(0.5)#Reduci el tiempo
 
-        return jobs
+        # Serializar el resultado a JSON
+        jobs_json = json.dumps(jobs, ensure_ascii=False, indent=2)
 
-def lambda_handler(event, context):
-    jobs = asyncio.run(run_scraper())
+        # Guardar en S3
+        s3.put_object(
+            Bucket=BUCKET_NAME,
+            Key="jobs/latest.json",
+            Body=jobs_json.encode("utf-8"),
+            ContentType="application/json"
+        )
+        print(f"✅ {len(jobs)} trabajos guardados correctamente en jobs/latest.json")
 
-    if not jobs:
-        return {
-            "statusCode": 500,
-            "body": "No se pudieron scrappear trabajos."
-        }
-
-    # Subir a S3 en lugar de guardar en disco
-    s3.put_object(
-        Bucket=BUCKET_NAME,
-        Key=OUTPUT_KEY,
-        Body=json.dumps(jobs, ensure_ascii=False, indent=2),
-        ContentType="application/json"
-    )
-
-    return {
-        "statusCode": 200,
-        "body": f"{len(jobs)} trabajos guardados correctamente en S3."
-    }
+if __name__ == "__main__":
+    asyncio.run(main())

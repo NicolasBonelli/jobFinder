@@ -20,8 +20,6 @@ if not BUCKET_NAME:
     raise ValueError("BUCKET_NAME no está definida")
 
 # Configuración de S3
-PROFILES_PREFIX = "profiles/"  # Carpeta donde n8n guarda perfiles
-RESULTS_PREFIX = "results/"    # Carpeta donde guardamos resultados
 JOBS_KEY = "jobs/latest.json"  # Archivo con todos los jobs scrapeados
 
 # URL inicial
@@ -40,8 +38,3 @@ RUN_CONFIG = CrawlerRunConfig(
     delay_before_return_html=1.0
 )
 
-# Directorios locales (temporales)
-LOCAL_PROFILES_DIR = Path("profiles")
-LOCAL_RESULTS_DIR = Path("results")
-LOCAL_PROFILES_DIR.mkdir(exist_ok=True)
-LOCAL_RESULTS_DIR.mkdir(exist_ok=True)
