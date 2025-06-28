@@ -32,10 +32,10 @@ jobs:
           echo "N8N_WEBHOOK_URL=${{ secrets.N8N_WEBHOOK_URL }}" >> $GITHUB_ENV
 
       - name: Run Crawler
-        run: python main.py
+        run: python src/main.py
 
       - name: Run Matcher
-        run: python batch_matcher.py
+        run: python src/batch_matcher.py
 
       - name: Notify n8n webhook
         run: |
